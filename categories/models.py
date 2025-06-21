@@ -1,6 +1,6 @@
 from django.db import models
 
-from core.models.base_model import BaseModel
+from core.models import BaseModel
 
 # Create your models here.
 
